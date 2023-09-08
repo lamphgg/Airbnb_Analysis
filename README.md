@@ -1,10 +1,8 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/davisy/financial-inclusion-in-africa-app/app.py](https://lamphgg-airbnb-amsterdam-streamlit-app-931x4e.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)] (https://lamphgg-airbnb-amsterdam-streamlit-app-931x4e.streamlit.app/)
 
 # Amsterdam Airbnb Map and Dataframe App
 An app showing a map in Amsterdam for toursists who want to find airbnb around Van Gogh Museum. 
 Zoom in/out to the location you preferred and hover over each dot to see more detailed of pricing and distances.
-
-<img src="" alt="screenshot of the Swahili News Classifier App" />
 
 
 ## Installation
