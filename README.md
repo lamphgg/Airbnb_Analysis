@@ -30,7 +30,7 @@ Finally browse the link provided in your browser.
 6. Responsive Design: The application is designed to be responsive and user-friendly, catering to both desktop and mobile users.
 
 
-## Benefits:
+## Benefits
 - Informed Decision-Making: Amsterdam Airbnb Analysis empowers tourists with valuable insights into available accommodations, enabling them to make well-informed choices.
 
 - Map Visualization: The visualization, map markers, and structured dataframe save users time by narrowing down their search to properties that meet their criteria.
@@ -38,11 +38,11 @@ Finally browse the link provided in your browser.
 - User-Centric: The application caters to the needs of tourists, providing a user-friendly interface for exploring Airbnb listings around Amsterdam.
 
 
-## Future Enhancements:
+## Future Enhancements
 Future iterations of this project could include the integration of additional data sources, user reviews, and personalized recommendation features to further enhance the user experience.
 
 
-## Conclusion:
+## Conclusion
 This web application is a valuable tool for tourists looking to find Airbnb accommodations in the picturesque city of Amsterdam. By leveraging the capabilities of Python and Numpy, this application simplifies the search process, allowing users to explore listings on an interactive map and access essential information in a structured dataframe. It is a user-centric solution designed to enhance the travel experience in one of Europe's most captivating cities.
 
 
